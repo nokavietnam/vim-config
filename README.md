@@ -23,4 +23,8 @@ You can read at [here](https://www.lazyvim.org/installation)
 Put .tmux.conf add home folder ~/  
 Put tmux.lua into ~/.config/nvim/lua/plugins/
 
+## Result
+
+![result vim tmux config](./images/vimconfig.png)
+
 Finnish
